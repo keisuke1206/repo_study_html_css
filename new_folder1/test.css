@@ -88,3 +88,7 @@
 .box-text{
   display: inline-block;
 }
+
+.featurette-divider {
+width: 100%;
+}
